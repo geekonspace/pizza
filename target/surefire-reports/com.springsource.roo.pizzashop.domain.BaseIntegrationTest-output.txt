@@ -1,0 +1,10 @@
+2015-06-17 17:37:56,911 [main] ERROR org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table pizza drop constraint FK_217mr4wn60n9chqd547qqghr8
+2015-06-17 17:37:56,921 [main] ERROR org.hibernate.tool.hbm2ddl.SchemaExport - user lacks privilege or object not found: PUBLIC.PIZZA
+2015-06-17 17:37:56,921 [main] ERROR org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table pizza_order_pizzas drop constraint FK_1c6oinroj4lpoy4xbb2nlq8gy
+2015-06-17 17:37:56,921 [main] ERROR org.hibernate.tool.hbm2ddl.SchemaExport - user lacks privilege or object not found: PUBLIC.PIZZA_ORDER_PIZZAS
+2015-06-17 17:37:56,921 [main] ERROR org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table pizza_order_pizzas drop constraint FK_jsppbdvj3r6toor3ve8f7b7ie
+2015-06-17 17:37:56,921 [main] ERROR org.hibernate.tool.hbm2ddl.SchemaExport - user lacks privilege or object not found: PUBLIC.PIZZA_ORDER_PIZZAS
+2015-06-17 17:37:56,921 [main] ERROR org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table pizza_toppings drop constraint FK_ho0yaxo2g5h73tbt1gfx2hq0o
+2015-06-17 17:37:56,921 [main] ERROR org.hibernate.tool.hbm2ddl.SchemaExport - user lacks privilege or object not found: PUBLIC.PIZZA_TOPPINGS
+2015-06-17 17:37:56,921 [main] ERROR org.hibernate.tool.hbm2ddl.SchemaExport - HHH000389: Unsuccessful: alter table pizza_toppings drop constraint FK_67vx05us5j987o9kd7ai3l03x
+2015-06-17 17:37:56,921 [main] ERROR org.hibernate.tool.hbm2ddl.SchemaExport - user lacks privilege or object not found: PUBLIC.PIZZA_TOPPINGS
